@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "author": "Hiroki Akiyama <aki-hiroki@nifty.com>",
-  "description": "High hot hubot",
+  "description": "Hot Bot",
   "dependencies": {
     "hubot": "^2.11.0",
     "hubot-diagnostics": "0.0.1",
